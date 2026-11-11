@@ -1,0 +1,6 @@
+{
+  "name": "송노한 체험해봐유 | 농업교육문화기획사",
+  "description": "농업과 사람, 문화를 잇는 농업교육문화기획사 '송노한 체험해봐유' 공식 홈페이지입니다. 맞춤형 농촌체험, 농업·생태 교육, 농촌 역사문화탐방, 우수 농산물 직거래 판매, 농가 홍보 및 6차 산업 브랜딩 솔루션을 제공합니다.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
