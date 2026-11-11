@@ -45,7 +45,7 @@ export const Hero: React.FC<HeroProps> = ({ onOpenInquiry }) => {
 
             {/* Value Proposition */}
             <p className="text-base sm:text-lg text-stone-600 leading-relaxed mb-8 max-w-2xl">
-              농업은 단순한 생산을 넘어 생명과 조상의 지혜, 사람의 온기를 잇는 종합 문화입니다.
+              농촌은 단순한 생산을 넘어 생명과 조상의 지혜, 사람의 온기를 잇는 종합 문화입니다.
               체험해봐유는 학교·단체 <strong>생태교육</strong>과 전통 고택 <strong>역사문화탐방</strong>,
               지역 우수 <strong>농산물 직거래 판매</strong>와 <strong>농가 미디어 홍보</strong>까지
               농촌과 도시가 함께 상생하는 풍요로운 길을 정성껏 기획합니다.

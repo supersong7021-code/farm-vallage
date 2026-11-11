@@ -13,7 +13,7 @@ export const AboutSection: React.FC = () => {
           </div>
           <h2 className="text-2xl sm:text-3xl font-bold tracking-tight text-stone-900 leading-snug">
             사람을 살리는 흙, 마을을 잇는 문화 <br />
-            <span className="text-emerald-800">송노한 대표</span>의 따뜻한 농업 이야기
+            <span className="text-emerald-800">송노한 대표</span>의 따뜻한 농촌 이야기
           </h2>
         </div>
 
